@@ -45,7 +45,6 @@ class TestUrbanRoutes:
     def test_order_2_ice_creams(self):
         # Add in S8
         for i in range(2):
-            # Add in S8
             pass
 
         print("Function created for ordering 2 ice creams")
