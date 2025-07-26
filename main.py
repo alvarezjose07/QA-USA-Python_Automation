@@ -43,13 +43,11 @@ class TestUrbanRoutes:
         pass
 
     def test_order_2_ice_creams(self):
-        # Add in S8
+        """Test ordering two ice creams. Loop should run twice."""
         for i in range(2):
-            pass
-
-        print("Function created for ordering 2 ice creams")
-        pass
-
+            # Add in S8
+            print("Ordering ice cream number", i + 1)
+            pass  # Placeholder for actual implementation
 
     def test_car_search_model_appears(self):
         # Add in S8

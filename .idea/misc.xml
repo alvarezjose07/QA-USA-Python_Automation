@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (QA_USA_PYTHON_AUTOMATION)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (QA-USA-Python_Automation)" project-jdk-type="Python SDK" />
 </project>
