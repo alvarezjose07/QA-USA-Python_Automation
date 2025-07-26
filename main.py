@@ -49,6 +49,7 @@ class TestUrbanRoutes:
             print("Ordering ice cream number", i + 1)
             pass  # Placeholder for actual implementation
 
+
     def test_car_search_model_appears(self):
         # Add in S8
         print("Function created for car search model appears")
